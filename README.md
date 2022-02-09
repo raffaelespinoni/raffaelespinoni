@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raffaelespinoni
-- 👀 I’m interested in ...  Development, backend, AI, machine learning
-- 🌱 I’m currently learning ...  DevOps and AWS 
+- 👀 I’m interested in ...  Development, backend (Java, C++), frontend (Angular, JS), AI, machine learning, AWS
+- 🌱 I’m currently learning ...  Full Stack develpment (MongoDB, Spring, Angular)
 - 📫 How to reach me ...  that's my mail raffaele.spinoni@gmail.com
 
 <!---
